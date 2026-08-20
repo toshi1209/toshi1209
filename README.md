@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb7c5&height=120&section=header" alt="sakura wave" />
+
 <img src="./assets/header.gif" width="800" alt="sakura coding header" />
 
 # 🌸🐱 こんにちは、TOSHIです 🐱🌸
@@ -15,6 +17,8 @@
 
 **思いついたら、数時間後にはもう動いてる。**  
 コードも、日常も、ちょっと可愛くしたいエンジニアです。
+
+<img src="./assets/line.gif" width="480" alt="animated line" />
 
 </div>
 
@@ -35,6 +39,10 @@
 - 🌸 「人が喜ぶ」が燃料。夜ふかししてコードを書くタイプ
 
 > 対応しました！　作成しました！　とりあえず動くもの作ったんで見てください
+
+<div align="center">
+  <img src="./assets/line.gif" width="480" alt="animated line" />
+</div>
 
 ---
 
@@ -108,6 +116,10 @@
 | 社内ツール・自動化 | Slack / Claude / Cursor / Playwright |
 | 趣味 | Swift / ZMK / 自作キーボード |
 
+<div align="center">
+  <img src="./assets/line.gif" width="480" alt="animated line" />
+</div>
+
 ---
 
 ## 🌸 GitHub
@@ -116,6 +128,9 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ToshikazuHirano333&show_icons=true&hide_border=true&bg_color=FFF5F8&title_color=FF8FAB&icon_color=FF8FAB&text_color=6B4F5B&ring_color=FFB7C5" alt="GitHub stats" />
   <br/>
   <img src="https://streak-stats.demolab.com/?user=ToshikazuHirano333&hide_border=true&background=FFF5F8&ring=FF8FAB&fire=FF8FAB&currStreakLabel=FF8FAB&sideLabels=6B4F5B&dates=C9A0A8&sideNums=6B4F5B&currStreakNum=6B4F5B" alt="GitHub streak" />
+  <br/>
+  <br/>
+  <img src="https://sakura-garden.vercel.app/api/svg?username=ToshikazuHirano333&theme=light" width="800" alt="sakura contributions garden" />
 </div>
 
 ---
@@ -127,5 +142,7 @@
 *また桜のころ、遊びにきてね*
 
 <img src="./assets/footer.gif" width="800" alt="sakura cats footer" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb7c5&height=120&section=footer" alt="sakura wave footer" />
 
 </div>
