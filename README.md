@@ -122,10 +122,10 @@
 
 <div align="center">
 
-### 来てくれてありがとう ♡
+### 🌸 来てくれてありがとう 🌸
 
-*また遊びにきてね*
+*また桜のころ、遊びにきてね*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffd1dc&height=120&section=footer" alt="footer wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb7c5&height=120&section=footer&text=%F0%9F%8C%B8%20%E3%81%BE%E3%81%9F%E6%9D%A5%E3%81%A6%E3%81%AD%20%F0%9F%8C%B8&fontSize=28&fontColor=ffffff&fontAlignY=55" alt="sakura footer wave" />
 
 </div>
