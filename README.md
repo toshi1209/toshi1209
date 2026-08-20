@@ -2,7 +2,7 @@
 
 # 🌸 こんにちは、TOSHIです 🌸
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=22&pause=1000&color=FF8FAB&center=true&vCenter=true&width=520&lines=%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2+%E2%99%A1;iOS+%2F+Swift+%E3%81%8C%E5%A5%BD%E3%81%8D;%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E3%82%82%E3%81%AE%E3%81%A8%E3%82%B3%E3%83%BC%E3%83%89%E3%81%8C%E5%A5%BD%E3%81%8D%E3%81%A7%E3%81%99+%E2%9C%A8" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=22&pause=1000&color=FF8FAB&center=true&vCenter=true&width=560&lines=%E3%81%A8%E3%82%8A%E3%81%82%E3%81%88%E3%81%9A%E5%8B%95%E3%81%8B%E3%81%99%E4%BA%BA+%E2%99%A1;AI%E3%81%A8%E3%82%8F%E3%81%84%E3%82%8F%E3%81%84%E5%AE%9F%E8%A3%85%E3%81%97%E3%81%BE%E3%81%99;%E8%87%AA%E4%BD%9C%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%82%82%E5%A5%BD%E3%81%8D%E3%81%A7%E3%81%99+%E2%9C%A8" alt="typing" />
 
 <br/>
 
@@ -11,7 +11,8 @@
 <br/>
 <br/>
 
-**コードも、日常も、ちょっと可愛くしたいエンジニアです。**
+**思いついたら、数時間後にはもう動いてる。**  
+コードも、日常も、ちょっと可愛くしたいエンジニアです。
 
 </div>
 
@@ -19,34 +20,56 @@
 
 ## 🌷 About me
 
-やあ、TOSHIです。ソフトウェアエンジニアをしています。
+やあ、TOSHI（平野稔和）です。
 
-- 💻 本業はソフトウェアエンジニア
-- 📱 iOS / Swift が好き
-- ✨ AIとわいわい開発するのが楽しい
-- 🍙 推しとごはんもだいじ
-- 🌙 夜ふかししてコードを書くタイプ
+職人でもアーキテクト純血でもなく、**ジェネラリスト・ソロボルダー**。  
+プロダクト、インフラ、AI、社内ツール、動画、自作キーボードまで、領域はあまり選びません。
+
+- 💻 ソフトウェアエンジニア（採用・店舗まわりのプロダクトが本業）
+- ✨ AIと一緒に、とりあえず動くものを先に出すのが好き
+- 💬 Slack から話しかけるだけで仕事が進む道具をよく作る
+- ⌨️ 自作キーボード（ZMK / roBa / 双掌）が趣味
+- 🍙 飲食店のリサーチも、つい本気でやっちゃう
+- 🌙 「人が喜ぶ」が燃料。夜ふかししてコードを書くタイプ
+
+> 対応しました！　作成しました！　とりあえず動くもの作ったんで見てください
 
 ---
 
 ## 🎀 Skills
 
 <p>
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell" />
+  <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
 </p>
 
 ---
 
-## 🧸 GitHub
+## 🧸 公開してるもの
+
+本業のほとんどはプライベートだけど、遊べるものはこちら。
+
+| 🎀 | なにこれ |
+| --- | --- |
+| [insyoku-research](https://toshikazuhirano333.github.io/insyoku-research/) | 飲食店リサーチ資料。お店の空気を、ちゃんと読む |
+| [unified-zmk-config](https://github.com/ToshikazuHirano333/unified-zmk-config) | 自作キーボードのファームウェア設定 |
+| [skills](https://github.com/ToshikazuHirano333/skills) | 自分用の AI スキル置き場 |
+
+---
+
+## 🧁 GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=toshi1209&show_icons=true&hide_border=true&bg_color=FFF5F8&title_color=FF8FAB&icon_color=FF8FAB&text_color=6B4F5B&ring_color=FFB7C5" alt="TOSHI's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ToshikazuHirano333&show_icons=true&hide_border=true&bg_color=FFF5F8&title_color=FF8FAB&icon_color=FF8FAB&text_color=6B4F5B&ring_color=FFB7C5" alt="GitHub stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=toshi1209&hide_border=true&background=FFF5F8&ring=FF8FAB&fire=FF8FAB&currStreakLabel=FF8FAB&sideLabels=6B4F5B&dates=C9A0A8&sideNums=6B4F5B&currStreakNum=6B4F5B" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ToshikazuHirano333&hide_border=true&background=FFF5F8&ring=FF8FAB&fire=FF8FAB&currStreakLabel=FF8FAB&sideLabels=6B4F5B&dates=C9A0A8&sideNums=6B4F5B&currStreakNum=6B4F5B" alt="GitHub streak" />
 </div>
 
 ---
