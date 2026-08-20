@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./assets/header.jpg" width="800" alt="sakura coding header" />
+
 # 🌸 こんにちは、TOSHIです 🌸
 
 <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=22&pause=1000&color=FF8FAB&center=true&vCenter=true&width=560&lines=%E3%81%A8%E3%82%8A%E3%81%82%E3%81%88%E3%81%9A%E5%8B%95%E3%81%8B%E3%81%99%E4%BA%BA+%E2%99%A1;AI%E3%81%A8%E3%82%8F%E3%81%84%E3%82%8F%E3%81%84%E5%AE%9F%E8%A3%85%E3%81%97%E3%81%BE%E3%81%99;%E8%87%AA%E4%BD%9C%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%82%82%E5%A5%BD%E3%81%8D%E3%81%A7%E3%81%99+%E2%9C%A8" alt="typing" />
