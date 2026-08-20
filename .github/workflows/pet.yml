@@ -16,8 +16,7 @@ jobs:
 
       - uses: prsdx/YourTomo@v1
         with:
-          # Activity lives mostly on this account
-          username: ToshikazuHirano333
+          username: toshi1209
           timezone-offset-minutes: "540" # JST (UTC+9)
           display-name: TOSHI
           pet-name: sakura
