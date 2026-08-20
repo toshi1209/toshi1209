@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/toshi.gif" width="220" alt="TOSHI mascot waving" />
+<img src="./assets/toshi.gif" width="640" alt="TOSHI mascot waving" />
 
 # 🌸 こんにちは、TOSHIです 🌸
 
