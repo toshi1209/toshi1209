@@ -1,0 +1,24 @@
+name: My YourTomo cat
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  pet:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: prsdx/YourTomo@v1
+        with:
+          # Activity lives mostly on this account
+          username: ToshikazuHirano333
+          timezone-offset-minutes: "540" # JST (UTC+9)
+          display-name: TOSHI
+          pet-name: sakura
+          accent-color: "#FF8FAB"

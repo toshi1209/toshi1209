@@ -125,6 +125,13 @@
 ## 🌸 GitHub
 
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dist/pet.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./dist/pet-light.svg" />
+    <img alt="sakura the github pet cat" src="./dist/pet.svg" width="800" />
+  </picture>
+  <br/>
+  <br/>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ToshikazuHirano333&show_icons=true&hide_border=true&bg_color=FFF5F8&title_color=FF8FAB&icon_color=FF8FAB&text_color=6B4F5B&ring_color=FFB7C5" alt="GitHub stats" />
   <br/>
   <img src="https://streak-stats.demolab.com/?user=ToshikazuHirano333&hide_border=true&background=FFF5F8&ring=FF8FAB&fire=FF8FAB&currStreakLabel=FF8FAB&sideLabels=6B4F5B&dates=C9A0A8&sideNums=6B4F5B&currStreakNum=6B4F5B" alt="GitHub streak" />
