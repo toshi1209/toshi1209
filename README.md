@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.jpg" width="800" alt="sakura coding header" />
+<img src="./assets/header.gif" width="800" alt="sakura coding header" />
 
 # 🌸 こんにちは、TOSHIです 🌸
 
@@ -126,6 +126,6 @@
 
 *また桜のころ、遊びにきてね*
 
-<img src="./assets/sakura-footer.jpg" width="640" alt="sakura footer" />
+<img src="./assets/footer.gif" width="800" alt="sakura cats footer" />
 
 </div>
