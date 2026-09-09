@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb7c5&height=140&section=header&text=TOSHI&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=neko%20%26%20sakura%20engineer&descAlignY=60&descSize=16" alt="sakura header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb7c5&height=120&section=header" alt="sakura header" />
 
 <img src="./assets/header.gif" width="800" alt="sakura coding header" />
 
