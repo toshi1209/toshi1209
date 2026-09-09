@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient,true,0:FFD6E8,50:FFB7C5,100:FFC8DD&height=140&section=header&text=♡%20TOSHI%20♡&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=neko%20%26%20sakura%20engineer&descAlignY=58&descSize=16" alt="sakura header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb7c5&height=140&section=header&text=TOSHI&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=neko%20%26%20sakura%20engineer&descAlignY=60&descSize=16" alt="sakura header" />
 
 <img src="./assets/header.gif" width="800" alt="sakura coding header" />
 
@@ -167,6 +167,6 @@
 
 <img src="./assets/footer.gif" width="800" alt="sakura cats footer" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient,true,0:FFC8DD,50:FFB7C5,100:FFD6E8&height=120&section=footer" alt="sakura wave footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb7c5&height=120&section=footer" alt="sakura wave footer" />
 
 </div>
